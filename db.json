@@ -1,5 +1,11 @@
 {
-	"sp": 6,
-	"hp": 6,
-	"lp": 4
+	"posts": [
+		{
+		"id": 1,
+		"title": "hello"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
