@@ -1,0 +1,17 @@
+node_modules/*
+.sass-cache/*
+static/dist/*
+# dev/.sass-cache
+# .node-version
+./temp
+./tmp
+static/temp
+static/tmp
+# dev/css
+**/*.log
+**/*.html
+#
+docker/cert/*
+docker/mariadb-data/*
+# env
+.env.development
